@@ -1,10 +1,12 @@
-import { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
+import Friend from "./Componentes/Friend";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+  return (
+    <>
+      <Friend amigo="my friend!"></Friend>
+    </>
+  );
 }
-
 export default App;
