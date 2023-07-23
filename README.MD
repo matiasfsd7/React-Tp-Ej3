@@ -1,9 +1,9 @@
-# TP REACT EJERCIO 2 ❄
+# TP REACT EJERCIO 3 ❄
 
-En esta ocacion la tarea era modificar el componente anterior y enviar mediante props el valor “My friend” de manera que el mensaje quede de la siguiente forma:
+En esta ocacion la tarea era modificar el programa anterior agregando al componente un state con la clave msj: “(from changed state)”, además agregar un botón al presionar este botón (onClick), el state de la clave msj se debe mostrar por pantalla de la siguiente manera:
 
 ```
-Hello mi friend
+Hello mi friend(from changed state)
 ```
 
 ## Herramientas Utilizadas
@@ -19,7 +19,7 @@ Hello mi friend
 ## Este proyecto esta en Github ⚡
 
 ```
-https://github.com/matiasfsd7/Reac-Tp-Ej2.git
+https://github.com/matiasfsd7/React-Tp-Ej3.git
 ```
 
 ---
